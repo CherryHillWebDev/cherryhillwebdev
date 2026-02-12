@@ -1,0 +1,9 @@
+# robots.txt for Cherry Hill Web Dev
+User-agent: *
+Disallow: /js/
+Disallow: /css/
+Disallow: /img/
+Disallow: /pages/admin/
+Allow: /
+
+Sitemap: https://www.cherryhillwebdev.com/sitemap.xml
