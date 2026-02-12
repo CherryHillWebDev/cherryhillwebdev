@@ -1202,7 +1202,7 @@ body::selection {
 }
 
 .review-holder {
-    width: 80%;
+    width: 95%;
     height: 100%;
     margin: auto;
     background: linear-gradient(145deg, #f0f0f06b, #cacaca6b);
