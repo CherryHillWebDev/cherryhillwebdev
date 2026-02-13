@@ -1,85 +1,85 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="https://sitemaps.org/schemas/sitemap/0.9">
 
   <!-- Homepage -->
   <url>
-    <loc>https://www.cherryhillwebdev.com/</loc>
+    <loc>https://cherryhillwebdev.com</loc>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   <!-- Main Pages -->
   <url>
-    <loc>https://www.cherryhillwebdev.com/pages/about.html</loc>
+    <loc>https://cherryhillwebdev.com/about</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.cherryhillwebdev.com/pages/contact.html</loc>
+    <loc>https://cherryhillwebdev.com/contact</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.cherryhillwebdev.com/pages/pricing.html</loc>
+    <loc>https://cherryhillwebdev.com/pricing</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <!-- Services Pages -->
   <url>
-    <loc>https://www.cherryhillwebdev.com/pages/services/web-design.html</loc>
+    <loc>https://cherryhillwebdev.com/services/web-design</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.cherryhillwebdev.com/pages/services/seo.html</loc>
+    <loc>https://cherryhillwebdev.com/services/seo</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.cherryhillwebdev.com/pages/services/business-management.html</loc>
+    <loc>https://cherryhillwebdev.com/services/business-management</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.cherryhillwebdev.com/pages/services/translations.html</loc>
+    <loc>https://cherryhillwebdev.com/services/translations</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <!-- Locations Pages -->
   <url>
-    <loc>https://www.cherryhillwebdev.com/pages/locations/south-jersey.html</loc>
+    <loc>https://cherryhillwebdev.com/locations/south-jersey</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.cherryhillwebdev.com/pages/locations/philadelphia.html</loc>
+    <loc>https://cherryhillwebdev.com/locations/philadelphia</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.cherryhillwebdev.com/pages/locations/new-york.html</loc>
+    <loc>https://cherryhillwebdev.com/locations/new-york</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.cherryhillwebdev.com/pages/locations/delaware.html</loc>
+    <loc>https://cherryhillwebdev.com/locations/delaware</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.cherryhillwebdev.com/pages/locations/barcelona.html</loc>
+    <loc>https://cherryhillwebdev.com/locations/barcelona</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.cherryhillwebdev.com/pages/locations/madrid.html</loc>
+    <loc>https://cherryhillwebdev.com/locations/madrid</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.cherryhillwebdev.com/pages/locations/united-kingdom.html</loc>
+    <loc>https://cherryhillwebdev.com/locations/united-kingdom</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
